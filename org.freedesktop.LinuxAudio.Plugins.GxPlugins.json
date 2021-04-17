@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/brummer10/GxPlugins.lv2/releases/download/v0.8/GxPlugins_0.8.tar.gz",
-                    "sha256": "f806d8f473a3ca800d391f9223a893ce44485f807eaac27916e4da34030e6fbd"
+                    "url": "https://github.com/brummer10/GxPlugins.lv2/files/6329721/GxPlugins_0.9.tar.gz",
+                    "sha256": "4251b4143b261305ebbfc87538e2631f6dbcc69180936083924aa0425bb9e422"
                 },
                 {
                     "type": "file",
