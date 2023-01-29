@@ -13,22 +13,22 @@
     the property of their respective holders.</p>
     <p>Includes the following overdrive pedals:</p>
     <ul>
-      <li>GxBottleRocket.lv2# - Based on the Mesa V1 Bottle Rocket* tube overdrive</li>
-      <li>GxDOP250.lv2# - Based on the Analog Man DOD OD-250 Yellow Overdrive*</li>
-      <li>GxGuvnor.lv2 - Based on the Marshall "The Guv'nor" Overdrive*</li>
-      <li>GxHotBox.lv2# - Based on the Matchless Hot Box* tube overdrive</li>
-      <li>GxSD1.lv2# - Based on the Boss SD-1 Super Overdrive*</li>
-      <li>GxSD2Lead.lv2# - Based on the Boss SD-2 Dual Overdrive*</li>
-      <li>GxValveCaster.lv2# - Based on the Valve Caster*</li>
-      <li>GxBoobTube.lv2# - Based on the Boob Tube*</li>
-      <li>GxShakaTube.lv2# - Based on the ShakaTube*</li>
       <li>GxBaJaTubeDriver.lv2# - Based on the BaJaTubeDriver*</li>
-      <li>GxTimRay.lv2# - Based on the Vemuram Jan Ray*</li>
-      <li>GxLuna.lv2# - Gnarly overdrive pedal simulation</li>
-      <li>GxSloopyBlue.lv2# - Overdrive pedal simulation</li>
-      <li>GxEternity.lv2# - Low compression overdrive pedal</li>
+      <li>GxBoobTube.lv2# - Based on the Boob Tube*</li>
+      <li>GxBottleRocket.lv2# - Based on the Mesa V1 Bottle Rocket* tube overdrive</li>
       <li>GxClubDrive.lv2# - Overdrive Pedal Simulation based on a
       EF86 Pentode Valve Simulation.</li>
+      <li>GxDOP250.lv2# - Based on the Analog Man DOD OD-250 Yellow Overdrive*</li>
+      <li>GxEternity.lv2# - Low compression overdrive pedal</li>
+      <li>GxGuvnor.lv2 - Based on the Marshall "The Guv'nor" Overdrive*</li>
+      <li>GxHotBox.lv2# - Based on the Matchless Hot Box* tube overdrive</li>
+      <li>GxLuna.lv2# - Gnarly overdrive pedal simulation</li>
+      <li>GxSD1.lv2# - Based on the Boss SD-1 Super Overdrive*</li>
+      <li>GxSD2Lead.lv2# - Based on the Boss SD-2 Dual Overdrive*</li>
+      <li>GxShakaTube.lv2# - Based on the ShakaTube*</li>
+      <li>GxSloopyBlue.lv2# - Overdrive pedal simulation</li>
+      <li>GxTimRay.lv2# - Based on the Vemuram Jan Ray*</li>
+      <li>GxValveCaster.lv2# - Based on the Valve Caster*</li>
     </ul>
     <p>Includes the following Fuzz/Distortion pedals:</p>
     <ul>
@@ -55,19 +55,19 @@
     </ul>
     <p>Includes the following amplifiers:</p>
     <ul>
-      <li>GxMicroAmp.lv2# - A simple booster</li>
-      <li>GxVBassPreAmp.lv2# - Simulation of the 1984 Vox Venue Bass
-      100 Pre Amp* section</li>
-      <li>GxSVT.lv2# - Based on the Ampeg SVT-CL Bass Head*</li>
-      <li>GxVmk2.lv2 - Based on Vox MKII* solid state preamp of the late 60s</li>
-      <li>GxUvox720k - Based on Univox 720k keyboard amp from 1978</li>
-      <li>GxCreamMachine# - Based on different circuits * Poweramp</li>
-      <li>GxEpic.lv2# - Based on Valve Junior*</li>
-      <li>GxSupersonic.lv2# - Based on different circuits * Poweramp</li>
       <li>GxBlueAmp.lv2# - Single - ended head amplifier simulation
       inspired by late 1950s Fender “Princeton” and “Champ” amplifier
       designs, it delivers tight bass, clean mids and highs.</li>
+      <li>GxCreamMachine# - Based on different circuits * Poweramp</li>
+      <li>GxEpic.lv2# - Based on Valve Junior*</li>
+      <li>GxMicroAmp.lv2# - A simple booster</li>
       <li>GxPlexi.lv2# - Power Amp simulation * Poweramp</li>
+      <li>GxSupersonic.lv2# - Based on different circuits * Poweramp</li>
+      <li>GxSVT.lv2# - Based on the Ampeg SVT-CL Bass Head*</li>
+      <li>GxUvox720k - Based on Univox 720k keyboard amp from 1978</li>
+      <li>GxVBassPreAmp.lv2# - Simulation of the 1984 Vox Venue Bass
+      100 Pre Amp* section</li>
+      <li>GxVmk2.lv2 - Based on Vox MKII* solid state preamp of the late 60s</li>
     </ul>
     <p>Also includes other effects:</p>
     <ul>
@@ -82,6 +82,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <update_contact>hub_AT_figuiere.net</update_contact>
   <releases>
+    <release date="2023-01-19" version="1.0.0" />
     <release date="2021-04-17" version="0.9.0">
       <description>
         <p>Fix issue with ON/OFF toggle buttons.</p>
