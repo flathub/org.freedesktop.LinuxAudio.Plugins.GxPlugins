@@ -1,11 +1,10 @@
 {
     "id": "org.freedesktop.LinuxAudio.Plugins.GxPlugins",
-    "branch": "23.08",
+    "branch": "24.08",
     "runtime": "org.freedesktop.LinuxAudio.BaseExtension",
     "runtime-version": "stable",
-    "sdk": "org.freedesktop.Sdk//23.08",
+    "sdk": "org.freedesktop.Sdk//24.08",
     "build-extension": true,
-    "appstream-compose": false,
     "build-options": {
         "prefix": "/app/extensions/Plugins/GxPlugins",
         "prepend-pkg-config-path": "/app/extensions/Plugins/GxPlugins/lib/pkgconfig"
@@ -32,7 +31,6 @@
             },
             "post-install": [
                 "install -Dm644 org.freedesktop.LinuxAudio.Plugins.GxPlugins.metainfo.xml -t ${FLATPAK_DEST}/share/metainfo",
-                "appstream-compose --basename=org.freedesktop.LinuxAudio.Plugins.GxPlugins --prefix=${FLATPAK_DEST} --origin=flatpak org.freedesktop.LinuxAudio.Plugins.GxPlugins",
                 "install -Dm644 LICENSE -t $FLATPAK_DEST/share/licenses/gxplugins/"
             ],
             "sources": [
